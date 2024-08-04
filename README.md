@@ -45,7 +45,7 @@
   * Weapon Hierarchy: _'Weapon Type', 'Weapon Subtype'_
   * Location Hierarchy: _'country', 'region', 'prov_state', 'city'_
 ## Data Modeling:
-&nbsp;&nbsp;&nbsp;&nbsp;Since I prepared everything for Star Schema, I made relationship with fact table to all other queries with _eventid_. Its finally 20 queries, and here how it looks like
+&nbsp;&nbsp;&nbsp;&nbsp;Since I prepared everything for Star Schema, I made relationship with fact table to all other queries with _'eventid'_. Its finally 20 queries, and here how it looks like
 ![Screenshot (117)](https://github.com/user-attachments/assets/df54f5cb-c13b-4c03-ab36-bc86b37c72ec)
 ## Data Analysis and Visuals:
 ![image](https://github.com/user-attachments/assets/729bd046-5d76-48ec-9c8d-239c042adb69)

@@ -24,7 +24,7 @@
   - properties affected
   - internatinal supports
 ## Data Transformation/Cleaning:
-&nbsp;&nbsp;&nbsp;&nbsp;The data is first splitted into star schema to make it scalable, then further transformation took place including
+&nbsp;&nbsp;&nbsp;&nbsp;The data is first splitted for the sake of star schema to make it scalable, then further transformation took place including
 * Making the **column multiples into single column** on gangs, weapons, attacktypes and also its sub-categories
 * **Removing the columns** that is not necessary for analysis _**eg**. written notes, explaing the events_
 * **Replacing** Numeric values with understandable replacements _**eg**. replacing -9,-99 with 'Unknown'_

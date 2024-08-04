@@ -30,7 +30,7 @@
 * **Replacing** Numeric values with understandable replacements _**eg**. replacing -9,-99 with 'Unknown'_
 * **Making Bridge tables** for colums with multiple entries _**eg**. multiple weapon types can be used in one event_
 * **Appropriating Data Types** on columns of Date, Binary, Currency
-* **Appending and Removing Duplicates** which happens on spliting the data
+* **Appending and Removing Duplicates** which happens while spliting the data
 ## Data Analysis Expression & Data Heirarchies:
 * **Calculated Columns**:
   * _'NoOf days to Execute'_ which is the date difference between _'Resolution Date'(if available)_ and _'Date of Event'_

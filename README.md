@@ -1,4 +1,5 @@
 # **Global Terrorism :** Terrorism Analysis for 1970-2017
+![1693140836538](https://github.com/user-attachments/assets/d9046d4d-c6cf-44e2-91e1-fdab0ae897a8)
 ## Introduction:
 &nbsp;&nbsp;&nbsp;&nbsp;I found a really wonderfull dataset on Internet which got me into the workplace of PowerBi straight away. And here I am showcasing the overview of what i have done with it.
 ## Problem Statement:

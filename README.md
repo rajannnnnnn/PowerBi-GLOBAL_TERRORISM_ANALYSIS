@@ -2,6 +2,11 @@
 ![1693140836538](https://github.com/user-attachments/assets/d9046d4d-c6cf-44e2-91e1-fdab0ae897a8)
 ## Introduction:
 &nbsp;&nbsp;&nbsp;&nbsp;I found a really wonderfull dataset on Internet which got me into the workplace of PowerBi straight away. And here I am showcasing the overview of what i have done with it.
+### Skills Demonstrated:
+* **Transformation**: Splitting into queries, Cleaning
+* **DAX**: Calculated Columns, Measures, Calculated Tables
+* **Modeling**: Star Schema
+* **Report Making**: Visuals, Slicers, Bookmarks
 ## Problem Statement:
 &nbsp;&nbsp;&nbsp;&nbsp;Given the data, here are the problems to consider
 

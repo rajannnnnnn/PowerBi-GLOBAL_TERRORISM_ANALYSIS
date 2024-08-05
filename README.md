@@ -47,7 +47,8 @@
   * Location Hierarchy: _'country', 'region', 'prov_state', 'city'_
 ## Data Modeling:
 &nbsp;&nbsp;&nbsp;&nbsp;Since I prepared everything for Star Schema, I made relationship with fact table to all other queries with _'eventid'_. Its finally 20 queries, and here how it looks like
-![Screenshot (117)](https://github.com/user-attachments/assets/df54f5cb-c13b-4c03-ab36-bc86b37c72ec)
+![Screenshot (122)](https://github.com/user-attachments/assets/582f7024-d64d-493b-a286-4e3a45009d8c)
+
 ## Data Analysis and Visuals:
 ![Screenshot (122)](https://github.com/user-attachments/assets/53893094-8737-4e78-8151-15afcd69bbe2)
 

@@ -49,4 +49,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Since I prepared everything for Star Schema, I made relationship with fact table to all other queries with _'eventid'_. Its finally 20 queries, and here how it looks like
 ![Screenshot (117)](https://github.com/user-attachments/assets/df54f5cb-c13b-4c03-ab36-bc86b37c72ec)
 ## Data Analysis and Visuals:
-![Screenshot (120)](https://github.com/user-attachments/assets/44a611cf-ab19-4975-a9c6-5f4fe0099f72)
+![Screenshot (122)](https://github.com/user-attachments/assets/53893094-8737-4e78-8151-15afcd69bbe2)
+

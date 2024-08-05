@@ -8,8 +8,8 @@
 * Transform it, to make it fit to analyse
 * Define a Star Schema
 * Create Report for these on your own custom:
-  * Ransom paid, Hostages Kidnapped, Property Damaged over time
-  * Understaning each Gang
+  * Loss Over Time
+  * Gang Summary
 ## Data Sourcing:
 **DataSet**: [_Global Terrorism_](https://www.kaggle.com/datasets/START-UMD/gtd)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;The CSV file contained 113 columns and 181629 rows of single sheet (155mb). It contained every terrorisms happened between the year 1970 and 2017, giving informations about the
@@ -49,4 +49,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Since I prepared everything for Star Schema, I made relationship with fact table to all other queries with _'eventid'_. Its finally 20 queries, and here how it looks like
 ![Screenshot (117)](https://github.com/user-attachments/assets/df54f5cb-c13b-4c03-ab36-bc86b37c72ec)
 ## Data Analysis and Visuals:
-![image](https://github.com/user-attachments/assets/729bd046-5d76-48ec-9c8d-239c042adb69)
+![Screenshot (120)](https://github.com/user-attachments/assets/44a611cf-ab19-4975-a9c6-5f4fe0099f72)

@@ -11,7 +11,7 @@
   * Ransom paid, Hostages Kidnapped, Property Damaged over time
   * Understaning each Gang
 ## Data Sourcing:
-[Click Me to visit the dataset on Kaggle](www.exampl.com)\n
+**DataSet**: [_Global Terrorism_](https://www.kaggle.com/datasets/START-UMD/gtd)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;The CSV file contained 113 columns and 181629 rows of single sheet (155mb). It contained every terrorisms happened between the year 1970 and 2017, giving informations about the
   
   - pepetrators

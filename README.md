@@ -16,6 +16,7 @@
 * Create Report for these on your own custom:
   * Loss Over Time
   * Gang Summary
+  * Attacks and Targets
 ## Data Sourcing:
 **DataSet**: [_Global Terrorism_](https://www.kaggle.com/datasets/START-UMD/gtd)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;The CSV file contained 113 columns and 181629 rows of single sheet (155mb). It contained every terrorisms happened between the year 1970 and 2017, giving informations about the
@@ -60,5 +61,4 @@
 ## Data Analysis and Visuals:
 ![Screenshot (122)](https://github.com/user-attachments/assets/53893094-8737-4e78-8151-15afcd69bbe2)
 ![Screenshot (124)](https://github.com/user-attachments/assets/21084f23-790f-4420-ac5a-25f6b6ce8972)
-
-
+![image](https://github.com/user-attachments/assets/003ed667-500f-4813-bfd1-a45d97ca8fe8)

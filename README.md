@@ -56,5 +56,9 @@
 ![Screenshot (123)](https://github.com/user-attachments/assets/5ca91ef6-c19b-4e73-8507-c874be866329)
 
 ## Data Analysis and Visuals:
+**Loss Over Time:**
 ![Screenshot (122)](https://github.com/user-attachments/assets/53893094-8737-4e78-8151-15afcd69bbe2)
+**Gangs Behind:**
+![Screenshot (124)](https://github.com/user-attachments/assets/21084f23-790f-4420-ac5a-25f6b6ce8972)
+
 

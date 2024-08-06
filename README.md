@@ -5,14 +5,14 @@
 ### Skills Demonstrated:
 * **Transformation**: Splitting into queries, Cleaning
 * **DAX**: Calculated Columns, Measures, Calculated Tables
-* **Modeling**: Star Schema
+* **Modeling**: SnowFlake Schema
 * **Report Making**: Visuals, Slicers, Bookmarks
 ## Problem Statement:
 &nbsp;&nbsp;&nbsp;&nbsp;Given the data, here are the problems to consider
 
 * Split the data to optimize performance
 * Transform it, to make it fit to analyse
-* Define a Star Schema
+* Define a SnowFlake Schema
 * Create Report for these on your own custom:
   * Loss Over Time
   * Gang Summary
@@ -31,7 +31,7 @@
   - properties affected
   - internatinal supports
 ## Data Transformation/Cleaning:
-&nbsp;&nbsp;&nbsp;&nbsp;The data is first splitted for the sake of star schema and to make it scalable, then further transformation took place including
+&nbsp;&nbsp;&nbsp;&nbsp;The data is first splitted for the sake of snowflake schema and to make it scalable, then further transformation took place including
 * Making the **column multiples into single column** on gangs, weapons, attacktypes and also its sub-categories
 * **Removing the columns** that is not necessary for analysis _**eg**. written notes, explaing the events_
 * **Replacing** Numeric values with understandable replacements _**eg**. replacing -9,-99 with 'Unknown'_
@@ -41,10 +41,13 @@
 ## Data Analysis Expression & Data Heirarchies:
 * **Calculated Columns**:
   * _'NoOf days to Execute'_ which is the date difference between _'Resolution Date'(if available)_ and _'Date of Event'_
+  * _'Gang Label'_ to know the gang is recogniced or Unknown
+  * _'NoOf SubGangs'_ each gang has
 * **Measures**:
   * _'Success Rate of Attack Type'_: Percentage of Success of each type of Attack
+  * _'International Support %'_: Percentage of International Support gained
 * **Calculated Tables:**
-  * _"Gang Details"_: Details of each gang includes their _'NoOf Success', 'NoOf Failures', 'Success Rate %'_
+  * _"Gang Summary"_: Details of each gang including their, success and failures, kills and wounds, kidnapping and ransom, etc
 * **Data Hierarchies**:
   * Date Hierarchy: which is made automatic in nature for _'Event Date', 'Resolution Date'_
   * Gang Hierarchy: _'Gang Name', 'Gang SubName'_
@@ -52,9 +55,8 @@
   * Weapon Hierarchy: _'Weapon Type', 'Weapon Subtype'_
   * Location Hierarchy: _'country', 'region', 'prov_state', 'city'_
 ## Data Modeling:
-&nbsp;&nbsp;&nbsp;&nbsp;Since I prepared everything for Star Schema, I made relationship with fact table to all other queries with _'eventid'_. Its finally 20 queries, and here how it looks like
-![Screenshot (123)](https://github.com/user-attachments/assets/5ca91ef6-c19b-4e73-8507-c874be866329)
-
+&nbsp;&nbsp;&nbsp;&nbsp;Since I prepared everything for SnowFlake Schema, I made relationship with fact table to all related queries with _'eventid'_. Its finally 21 queries, and here how it looks like
+![image](https://github.com/user-attachments/assets/095ea0df-50b5-4d86-aac2-50159768e2c6)
 ## Data Analysis and Visuals:
 **Loss Over Time:**
 ![Screenshot (122)](https://github.com/user-attachments/assets/53893094-8737-4e78-8151-15afcd69bbe2)

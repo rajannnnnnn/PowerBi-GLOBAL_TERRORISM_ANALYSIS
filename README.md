@@ -56,11 +56,9 @@
   * Location Hierarchy: _'country', 'region', 'prov_state', 'city'_
 ## Data Modeling:
 &nbsp;&nbsp;&nbsp;&nbsp;Since I prepared everything for SnowFlake Schema, I made relationship with fact table to all related queries with _'eventid'_. Its finally 21 queries, and here how it looks like
-![image](https://github.com/user-attachments/assets/095ea0df-50b5-4d86-aac2-50159768e2c6)
+![Screenshot (125)](https://github.com/user-attachments/assets/9ef129b2-bf24-4364-b1df-c78664d43f55)
 ## Data Analysis and Visuals:
-**Loss Over Time:**
 ![Screenshot (122)](https://github.com/user-attachments/assets/53893094-8737-4e78-8151-15afcd69bbe2)
-**Gangs Behind:**
 ![Screenshot (124)](https://github.com/user-attachments/assets/21084f23-790f-4420-ac5a-25f6b6ce8972)
 
 

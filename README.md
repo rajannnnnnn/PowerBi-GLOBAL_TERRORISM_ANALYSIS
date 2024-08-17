@@ -64,4 +64,4 @@
 ![Screenshot (127)](https://github.com/user-attachments/assets/5df7afcc-ed99-467a-b108-143b26edffa4)
 
 ## Conclusion:
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;Its clear as the visuals shows the terrorisms and its features

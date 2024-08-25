@@ -1,3 +1,9 @@
+### Files Identification:
+**Project File (.pbix):** the actual project and report _(global_terrorism.pbix)_<br>
+**Dataset:** dataset used in this project _(global_terrorism.csv)_<br>
+**Documentation:** the overview of the project _(README.md)_<br>
+
+
 # **Global Terrorism :** Terrorism Analysis for 1970-2017
 ![1693140836538](https://github.com/user-attachments/assets/d9046d4d-c6cf-44e2-91e1-fdab0ae897a8)
 ## Introduction:

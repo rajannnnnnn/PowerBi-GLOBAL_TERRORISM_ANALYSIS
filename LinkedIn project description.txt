@@ -1,0 +1,47 @@
+This project aims to deliver a insightful reports from the records of Terrorisms took place all over the world from 1970 to 2017, with 3 sections on it.
+
+STEP-by-STEP progress of the project:
+-------------------------------------------------------------------------
+(1)  [Data souring] - Microsoft Excel
+      Looking over the data and understanding it.
+      Dataset overview:
+      - 113 features
+      - 181,629 records
+      |
+      |
+(2)  [Data Cleaning] - Microsoft Excel
+      Dealing the inconsistency ex. missing values and outliers.
+      |
+      |
+(3)  [Data Transformation] - Microsoft Excel, Power Query Editor
+      Necessary transformations that optimizes further interpretations.
+      |
+      |
+(4)  [Data Modelling] - Power Bi Desktop
+      Creating relationships between Queries are crucial for DAX and reports.
+      - It was 21 Queries finally after all transformations.
+      |
+      |
+(5)  [Data Analysis Expression] - Power Bi Desktop
+      Measure and Calculated Columns that help enhancing the visual reports.
+      |
+      |
+(6)  [Report Making] - Power Bi Desktop
+      Outcomes (as visual reports):
+      - Loss Report
+      - Gangs Report
+      - Targets and Weapons
+      - Summary of above 3
+      |
+      |
+(7)  [Writing Documentation] - README.md
+      While not the part of project, but it is necessary after the project.
+-----------------------------------------------------------------------------
+
+
+By this project, I gained supreme knowledge on how to deal a complex data and driving it to visuals. In every aspects of this journey, I met something new and unknown. Sometimes, I had to start everything from the beginning.
+
+I learned 
+- to make bridge columns which improves efficiency in storage,
+- to combine same set information which is found in different columns by pivoting methods, (ex. a terrorism can fall under more than 1 category)
+- admire the supremacy of Map visualization
